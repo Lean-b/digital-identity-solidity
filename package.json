@@ -1,0 +1,22 @@
+{
+  "name": "digital-identity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeanBorquez/digital-identity-solidity.git"
+  },
+  "author": "Leandro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeanBorquez/digital-identity-solidity/issues"
+  },
+  "homepage": "https://github.com/LeanBorquez/digital-identity-solidity#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.3"
+  }
+}
